@@ -1,2 +1,2 @@
 #!/bin/bash
-parent_dir=$(dirname "$PWD"); find . -maxdepth 1 -type f -name "*.html" -newer "$parent_dir" -exec cp -u {} "$parent_dir" \;
+cp -rua *.html ../
