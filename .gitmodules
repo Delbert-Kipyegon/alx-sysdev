@@ -1,0 +1,3 @@
+[submodule "0x04-loops_conditions_and_parsing"]
+	path = 0x04-loops_conditions_and_parsing
+	url = https://github.com/Delbert-Kipyegon/alx-system_engineering-devops.git
